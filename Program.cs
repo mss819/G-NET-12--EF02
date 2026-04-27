@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             AppDbContext Db = new AppDbContext();
+
         }
     }
 }

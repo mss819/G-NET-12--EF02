@@ -36,6 +36,7 @@ namespace G_NET_12_EF02
                 en.Property(e=>e.LogoURL).HasColumnType("nvarchar(250)").IsRequired();
 
 
+
             });
             modelBuilder.Entity<Registration>(en => 
             {

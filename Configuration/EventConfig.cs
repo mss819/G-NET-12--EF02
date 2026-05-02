@@ -20,6 +20,7 @@ namespace G_NET_12_EF02.Configuration
             builder.Property(e => e.EndDate).IsRequired();
 
 
+
         }
     }
 }

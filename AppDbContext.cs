@@ -52,7 +52,7 @@ namespace G_NET_12_EF02
             modelBuilder.ApplyConfiguration<Event>(new EventConfig());
             modelBuilder.ApplyConfiguration<Badge>(new BadgeConfig());
             modelBuilder.ApplyConfiguration<Address>(new AddressConfig());
-
+            
         }
     }
 }
